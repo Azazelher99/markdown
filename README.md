@@ -1,4 +1,4 @@
 # markdown
 Ejemplo de uso del formato markdown
 
-fhbogxuieguvwzgiuyyi enis iyevsn<f emuv4etu
+![imagen de prueba](/Users/usuario/Desktop/captura.jpg)
