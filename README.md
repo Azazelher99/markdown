@@ -1,4 +1,4 @@
 # markdown
 Ejemplo de uso del formato markdown
 
-![imagen de prueba](/Users/usuario/Desktop/captura.jpg)
+![imagen de prueba](captura.jpg)
