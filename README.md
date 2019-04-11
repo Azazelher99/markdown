@@ -9,4 +9,4 @@ Instalación de Zabbix en Ubuntu 18.04, descargamos la última versión del prog
 
 Descomprimimos y ejecutamos el programa
 
-![imagen2](imagenes/image002)
+![imagen2](imagenes/image002.gif)
