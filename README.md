@@ -1,7 +1,7 @@
 # Trabajo idp tema 9 
 ## Hecho por: 
 
-Instalación de Zabbix en Ubuntu 18.04, descargamos la última versión del programa utilizando el comando `wget`
+Instalación de Zabbix en Ubuntu 18.04, descargamos la última versión del programa utilizando el comando `wgetfe
 
 <https://repo.zabbix.com/zabbix/4.2/ubuntu/pool/main/z/zabbix-release/zabbix-release_4.2-1+bionic_all.deb”.>
 
@@ -9,5 +9,6 @@ Instalación de Zabbix en Ubuntu 18.04, descargamos la última versión del prog
 
 Descomprimimos y ejecutamos el programa
 
-![imagen2]()
+![imagen2](imagenes/image002.gif)
 
+Hola mundo
