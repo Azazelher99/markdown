@@ -7,4 +7,4 @@ Instalación de Zabbix en Ubuntu 18.04, descargamos la última versión del prog
 
 
 
-![imagen de prueba](imagenes/image001.jpg)
+![imagen ](imagenes/image001.jpg)
