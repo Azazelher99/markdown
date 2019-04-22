@@ -11,3 +11,6 @@ Descomprimimos y ejecutamos el programa
 
 ![imagen2](imagenes/image003.png)
 
+Actualizamos los repositorios 
+
+![imagen3](imagenes/image005.png)
